@@ -1,6 +1,6 @@
 ## Hi there!
 - 👋 We are GEOFRONT, a software studio from Delft
-- ⛵ We are currently working on POLDERS.IO, our upcoming historic dutch city builder game about fighting the sea. 
+- ⛵ We are currently working on POLDERS, our upcoming historic dutch city builder game about fighting the sea. 
 
 <!--
 
